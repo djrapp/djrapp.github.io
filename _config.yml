@@ -24,8 +24,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Address Here
-  - line: Address Here
+  - line: 530.304.7958
 
 # Build settings
 markdown: kramdown
