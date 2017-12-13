@@ -180,8 +180,9 @@ section h2 {
 }
 
 section.success {
-    color: #fff;
-    background: #{{ site.color.primary }};
+    color: #{{ site.color.secondary }};
+    background: #fff;
+	padding: 75px 0;
 }
 
 @media(max-width:767px) {
