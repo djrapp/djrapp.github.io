@@ -1,26 +1,29 @@
-# Site settings
-title: David Rappaport
-email: david@rappaport.me
-description: "Student at CU Boulder. Making cool things with wires."
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 4d6b92 #80B3FF
-  secondary: 1A3A62 #FD6E8A
-  secondary-dark: 082345 #A2122F
+# Site title
+title: "David J. Rappaport"
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: instagram
-    url: https://www.instagram.com/d_rappaport
-  - title: linkedin
-    url: https://www.linkedin.com/pub/david-rappaport/2b/282/916
-  - title: file-text-o
-    url: http://davidrappaport.wixsite.com/portfolio
-# Postal address (add as many lines as necessary)
-address:
-  - line: 530.304.7958
+# A description of your site for social meta tag, search engines, and feed.xml
+description: "Personal homepage for David J. Rappaport, showcasing examples of my engineering, design, and other creative work."
 
-# Build settings
-markdown: kramdown
-permalink: pretty
+# The subpath of your site, e.g. /blog, for generating urls
+baseurl: 
+
+sass:
+  sass_dir: _sass
+
+# The base hostname & protocol of your site for where absolute urls are needed
+url: "https://rappaport.me"
+
+# Author information - author info at the bottom of the post
+author_name: "David J. Rappaport"
+
+# Social links in the site footer
+linkedin_username: "djrapp"
+instagram_username: "d_rappaport"
+
