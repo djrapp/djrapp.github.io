@@ -12,7 +12,7 @@ title: "David J. Rappaport"
 description: "Personal homepage for David J. Rappaport, showcasing examples of my engineering, design, and other creative work."
 
 # The subpath of your site, e.g. /blog, for generating urls
-baseurl: 
+baseurl: /djrapp.github.io
 
 sass:
   sass_dir: _sass
